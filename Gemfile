@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.6'
 
+gem 'grape'
 gem 'jquery-rails'
 gem 'sqlite3'
 
